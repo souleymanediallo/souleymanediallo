@@ -20,9 +20,4 @@ Python / Django Developer based in France 🇫🇷
 -  **Django Blog** – CRUD, authentication, admin customization
 -  **Portfolio** – Personal website with projects and contact
 
-[Portfolio :octicons-link-external-16:](https://souleymanediallo.github.io/){:target="_blank"}
-
-###  Contact
-- [Portfolio :octicons-link-external-16:](https://www.linkedin.com/in/developpeur-python/){:target="_blank"}
-
 Fun fact: I enjoy building useful apps while learning new tech.
