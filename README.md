@@ -1,13 +1,28 @@
-### Hi there 👋
+## Hi, I'm Souleymane 👋
 
-Here are some ideas to get you started:
+Python / Django Developer based in France 🇫🇷
 
-- 🔭 I’m currently working on Python and Django
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Python
-- 🤔 I’m looking for help with Python
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###  About me
+- Python & Django developer (backend-focused)
+- Experience building real-world web applications (Django, REST APIs)
+- Interested in cloud, Linux, and deployment (AWS, Ubuntu)
+- Currently improving my skills in backend architecture & best practices
 
+###  Tech stack
+- **Languages**: Python, SQL, HTML, CSS
+- **Frameworks**: Django, Django REST Framework, Flask, Fast API
+- **Databases**: PostgreSQL, SQLite
+- **Tools**: Git, GitHub, Linux, VS Code, PyCharm
+- **Cloud**: AWS (EC2, Lightsail, S3 – basics)
+
+###  Featured projects
+-  **Covoiturage platform** – Django web app (search, trips, users)
+-  **Django Blog** – CRUD, authentication, admin customization
+-  **Portfolio** – Personal website with projects and contact
+
+[Portfolio :octicons-link-external-16:](https://souleymanediallo.github.io/){:target="_blank"}
+
+###  Contact
+- [Portfolio :octicons-link-external-16:](https://www.linkedin.com/in/developpeur-python/){:target="_blank"}
+
+Fun fact: I enjoy building useful apps while learning new tech.
