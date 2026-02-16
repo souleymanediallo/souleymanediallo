@@ -18,6 +18,6 @@ Python / Django Developer based in France 🇫🇷
 ###  Featured projects
 - [sensdelavie.org](https://sensdelavie.org) – Posts, Categories, tags, search, CRUD, authentication, admin, customization
 - [covoiturage.sn](https://www.covoiturage.sn) – Django web app (search, trips, users)
-- [Blog](https://souleymanediallo.github.io/) – Personal website with projects
+- [blog](https://souleymanediallo.github.io/) – Personal website with projects
 
 Fun fact: I enjoy building useful apps while learning new tech.
