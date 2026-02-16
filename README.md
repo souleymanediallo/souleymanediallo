@@ -16,8 +16,8 @@ Python / Django Developer based in France 🇫🇷
 - **Cloud**: AWS (EC2, Lightsail, S3 – basics)
 
 ###  Featured projects
--  **Covoiturage platform** – Django web app (search, trips, users)
--  **Django Blog** – CRUD, authentication, admin customization
--  **Portfolio** – Personal website with projects and contact
+- [sensdelavie.org :octicons-link-external-16:](https://sensdelavie.org){:target="_blank"} – CRUD, authentication, admin customization
+- [covoiturage.sn :octicons-link-external-16:](https://www.covoiturage.sn){:target="_blank"} – Django web app (search, trips, users)
+- [blog :octicons-link-external-16:](https://souleymanediallo.github.io/){:target="_blank"} – Personal website with projects
 
 Fun fact: I enjoy building useful apps while learning new tech.
